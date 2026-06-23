@@ -13,9 +13,7 @@ I have designed and delivered courses in traditional face-to-face, hybrid, and f
 
 My focus has been teaching in studio art, specifically the areas of:
 
-    digital art/design - graphic design, digital illustration, digital imaging, layout design, interface design, computer/digital art, computer graphics, typography, internship, business of art, portfolio development
-    fine arts - ceramics, 2D design
-    art appreciation (not a studio art course)
+digital art/design - graphic design, digital illustration, digital imaging, layout design, interface design, computer/digital art, computer graphics, typography, internship, business of art, portfolio development, fine arts - ceramics, 2D design, art appreciation (not a studio art course)
 
 Art and Design Industry Experience
 
@@ -23,7 +21,8 @@ I continue to work on collaborative projects with a variety of clients producing
 
 My personal art practice focuses on concepts related to gender and sexual politics which utilizes an interdisciplinary approach to art making.
 Education
-
+<li>
     MFA–Digital Art from IU
     BFA–3D Studio/Ceramics from NIU
     AAS–Digital Art and Design and AA–Fine Art from MV
+    </li>
