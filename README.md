@@ -21,8 +21,9 @@ I continue to work on collaborative projects with a variety of clients producing
 
 My personal art practice focuses on concepts related to gender and sexual politics which utilizes an interdisciplinary approach to art making.
 Education
-<li>
-    MFA–Digital Art from IU
-    BFA–3D Studio/Ceramics from NIU
-    AAS–Digital Art and Design and AA–Fine Art from MV
-    </li>
+<ul>
+    <li>MFA–Digital Art from IU</li>
+    <li>BFA–3D Studio/Ceramics from NIU</li>
+    <li>AAS–Digital Art and Design and AA–Fine Art from MV</li>
+</ul>
+   
